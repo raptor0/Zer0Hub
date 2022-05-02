@@ -14,7 +14,7 @@ end
 local discordinv = "https://discord.gg/tgh3dtSEW7"
 local d
 local f = pcall(function()
-    d = game:HttpGet("https://raw.githubusercontent.com/raptor0/Zer0Hub/main/GameScripts/"..game..".lua")
+    d = game:HttpGet("https://raw.githubusercontent.com/raptor0/Zer0Hub/main/GameScripts/6299805723.lua")
 end)
 if f == true then
     loadstring(d)()
